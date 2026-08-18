@@ -1,5 +1,19 @@
 {
-  "project": "AEM XWalk Boilerplate",
-  "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
+  "total": 3,
+  "offset": 0,
+  "limit": 3,
+  "data": [
+    {
+      "key": "project",
+      "value": "AEM XWalk Boilerplate"
+    },
+    {
+      "key": "editUrlLabel",
+      "value": "AEM Editor"
+    },
+    {
+      "key": "editUrlPattern",
+      "value": "{{contentSourceUrl}}{{pathname}}?cmd=open"
+    }
+  ]
 }
